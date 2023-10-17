@@ -84,7 +84,7 @@ input {
     }
     #btnYes {
         position: absolute;
-        left: 140px;
+        left: 100px;
         top: 350px;
         background-color: #7bd806;
         cursor: pointer;
@@ -92,7 +92,7 @@ input {
     }
     #btnNo {
         position: absolute;
-        left: 270px;
+        left: 250px;
         top: 350px;
         background-color: #f4511e;
         transition: 0.3s;
